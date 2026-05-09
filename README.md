@@ -8,7 +8,7 @@ This repository contains all IT class materials.
 
 # PPT Presentation
 
-- [Download PPT](https://docs.google.com/presentation/d/1nbauMfm03GoDhSHelpTB5lywJ6J7hIir/edit?usp=drive_link&ouid=110488059699887937771&rtpof=true&sd=true)
+- [Download PPT](https://docs.google.com/presentation/d/1nbauMfm03GoDhSHelpTB5lywJ6J7hIir/export/pptx)
 
 ---
 
@@ -25,5 +25,5 @@ This repository contains all IT class materials.
 
 | Date | Experiment |
 |------|------|
-| 07-05-2026 | [Lab 1](https://docs.google.com/spreadsheets/d/1mKVOjJDjja6vURGXjAuWhXrzsF_BjGbm/edit?usp=sharing&ouid=110488059699887937771&rtpof=true&sd=true) |
+| 07-05-2026 | [Lab 1](https://docs.google.com/spreadsheets/d/1mKVOjJDjja6vURGXjAuWhXrzsF_BjGbm/export?format=xlsx) |
 | 0-05-2026 | [Lab 2]() |
