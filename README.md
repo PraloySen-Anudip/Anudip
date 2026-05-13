@@ -16,8 +16,8 @@ This repository contains all IT class materials.
 
 | Date | Topic |
 |------|------|
-| 07-05-2026 | []() |
-| 0-05-2026 | []() |
+| 07-05-2026 | [CW 1]() |
+| 0-05-2026 | [CW 2]() |
 
 ---
 
