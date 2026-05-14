@@ -16,7 +16,7 @@ This repository contains all IT class materials.
 
 | Date | Topic |
 |------|------|
-| 07-05-2026 | [CW 1]() |
+| 14-05-2026 | [CW 1](https://docs.google.com/spreadsheets/d/1iU6TjAnUApOx_8mDZX4GPwd5JfYm0_RJ/export?format=xlsx&utm_source=chatgpt.com) |
 | 0-05-2026 | [CW 2]() |
 
 ---
