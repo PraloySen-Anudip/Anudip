@@ -26,4 +26,6 @@ This repository contains all IT class materials.
 | Date | Experiment |
 |------|------|
 | 07-05-2026 | [Lab 1](https://docs.google.com/spreadsheets/d/1mKVOjJDjja6vURGXjAuWhXrzsF_BjGbm/export?format=xlsx) |
-| 0-05-2026 | [Lab 2]() |
+|18-05-2026 | [Lab 2](https://docs.google.com/spreadsheets/d/140RKs8xhNGYmA3GofLJFNAv8lCQL0opb/export?format=xlsx) |
+|19-05-2026 | [Lab 3](https://docs.google.com/spreadsheets/d/1EzqJEfn6DYTumCuX3b4PI8e72EGER4I0/export?format=xlsx) |
+
