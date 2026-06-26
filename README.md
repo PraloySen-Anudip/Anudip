@@ -30,3 +30,6 @@ This repository contains all IT class materials.
 |20-05-2026 | [Lab 4](https://docs.google.com/spreadsheets/d/1YuC1xd9lUxc7mJD_u-kGWCk2VR3-6kWJ/export?format=xlsx) |
 |20-05-2026 | [Lab 5]() |
 |20-05-2026 | [Lab 6]() |
+
+# Labwork SQL
+| 26-06-2026 | [SQL_Lab 1](https://drive.google.com/uc?export=download&id=1AyhzWD2tcAz9Patsp6k0Z-eZwGDb2yiZ) |
